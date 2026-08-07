@@ -1,5 +1,6 @@
 # CSS Rotate-Fade Accordion
 
+
 A clean, modern, pure HTML/CSS responsive accordion component engineered for product catalog layouts, built natively for **EaseMotion CSS**.
 
 ## Features
@@ -26,3 +27,30 @@ Customize the component theme variables directly inside `:root`:
 | `--em-accent` | `#38bdf8` | Focus state and active icon accents |
 | `--em-duration` | `0.5s` | Transform timeline speed |
 | `--em-timing` | `cubic-bezier(...)` | Fluid hardware easing curve |
+
+A lightweight, responsive accordion component designed for fintech dashboard
+interfaces.
+
+Built using only semantic HTML and pure CSS.
+
+## Features
+
+- Pure HTML and CSS
+- No JavaScript
+- No external dependencies
+- Rotate-fade content animation
+- Rotating accordion indicator
+- Responsive design
+- Fintech dashboard styling
+- Keyboard accessible using native `<details>` and `<summary>`
+- `prefers-reduced-motion` support
+- CSS custom properties for easy customization
+
+## Folder
+
+```text
+rotate-fade-accordion/
+├── demo.html
+├── style.css
+└── README.md
+
